@@ -1,53 +1,35 @@
-## 📜 Description  
-Hi! **Online Shop** is a modern e-commerce application designed for a smooth and intuitive shopping experience.  
-Built with **Jetpack Compose** and **Material 3**, the app follows the **MVVM architecture pattern** to ensure high performance, scalability, and maintainability.  
-With the power of **Hilt**, **Room Database**, and **Glide**, it provides a seamless product browsing and cart management experience.  
-A key feature of the app is the use of **Shared Transition Layout** to deliver beautiful and smooth animations between screens.
+## 📖 Overview
 
+**Online Shop** is a modern Android e-commerce application focused on delivering a fast, responsive, and visually engaging shopping experience.
 
+The project is built entirely with **Jetpack Compose** and follows a clean **MVVM architecture**, making the codebase scalable, maintainable, and easy to extend. It showcases modern Android development practices, including dependency injection with **Hilt**, local data persistence using **Room**, and efficient image loading with **Glide**.
 
-[**Download 🚀**](https://github.com/alirezaahmadi056/shop-animation/releases/download/V1.0.0.0/app-release.apk)
+One of the highlights of the application is the implementation of **Shared Element Transitions**, creating smooth and immersive navigation between product lists and detail screens.
 
-## Features
-- Single Activity architecture  
-- MVVM architecture  
-- Product listing and cart management  
-- Beautiful animations with Shared Transition Layout  
-- Dark mode support  
+## ✨ Key Features
 
-## 🛠 Built With
+* Modern Single-Activity architecture
+* Clean MVVM implementation
+* Product catalog browsing
+* Shopping cart functionality
+* Shared Element screen transitions
+* Material 3 design system
+* Dark mode support
+* Responsive and intuitive UI built with Compose
 
-| Category                  | Technology                     |
-|---------------------------|---------------------------------|
-| 🏛 Architecture            | MVVM Architecture Pattern       |
-| 🖼️ UI Framework            | [Jetpack Compose](https://developer.android.com/jetpack/compose) |
-| 🛠️ Dependency Injection    | [Dagger-Hilt](https://dagger.dev/hilt/) |
-| 🗄️ Local Database          | [Room Database](https://developer.android.com/jetpack/androidx/releases/room) |
-| 🖼️ Image Loading           | [Glide](https://github.com/bumptech/glide) |
-| 🌐 Navigation              | [Compose Navigation](https://developer.android.com/jetpack/compose/navigation) |
-| 🎞️ Shared Element Animation| [Shared Transition Layout](https://developer.android.com/develop/ui/compose/animation/shared-elements) |
+## 🛠 Tech Stack
 
+| Category             | Technology            |
+| -------------------- | --------------------- |
+| Architecture         | MVVM                  |
+| UI Toolkit           | Jetpack Compose       |
+| Design System        | Material 3            |
+| Dependency Injection | Dagger-Hilt           |
+| Local Storage        | Room Database         |
+| Image Loading        | Glide                 |
+| Navigation           | Compose Navigation    |
+| Animations           | Shared Transition API |
 
 ## 📱 Screenshots
-<table style="width:100%">
-  <tr>
-    <th>Home Screen</th>
-    <th>Category Screen</th> 
-    <th>Cart Screen</th> 
-  </tr>
-  <tr>
-    <td><img src="assests/home.jpg" width=240/></td> 
-    <td><img src="assests/category.jpg" width=240/></td>
-    <td><img src="assests/cart.jpg" width=240/></td>
-  </tr>
-  <tr>
-    <th>Profile Screen</th>
-    <th>Favorit Screen</th> 
-    <th>ProductDetail Screen</th> 
-  </tr>
-  <tr>
-    <td><img src="assests/profile.jpg" width=240/></td> 
-    <td><img src="assests/favorite.jpg" width=240/></td>
-    <td><img src="assests/productDetail.jpg" width=240/></td>
-  </tr>
-</table>
+
+Explore the main sections of the application, including product browsing, category filtering, favorites, cart management, user profile, and detailed product views.
