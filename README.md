@@ -33,3 +33,4 @@ One of the highlights of the application is the implementation of **Shared Eleme
 ## 📱 Screenshots
 
 Explore the main sections of the application, including product browsing, category filtering, favorites, cart management, user profile, and detailed product views.
+<table style="width:100%"> <tr> <th>Home Screen</th> <th>Category Screen</th> <th>Cart Screen</th> </tr> <tr> <td><img src="assests/home.jpg" width=240/></td> <td><img src="assests/category.jpg" width=240/></td> <td><img src="assests/cart.jpg" width=240/></td> </tr> <tr> <th>Profile Screen</th> <th>Favorit Screen</th> <th>ProductDetail Screen</th> </tr> <tr> <td><img src="assests/profile.jpg" width=240/></td> <td><img src="assests/favorite.jpg" width=240/></td> <td><img src="assests/productDetail.jpg" width=240/></td> </tr> </table>
