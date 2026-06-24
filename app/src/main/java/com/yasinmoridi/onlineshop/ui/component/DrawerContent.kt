@@ -129,7 +129,7 @@ fun DrawerContent(
             icon = R.drawable.img_support,
             onClick = {
                 try {
-                    uriHandler.openUri("tg://resolve?domain=i_hoseinam")
+                    uriHandler.openUri("tg://resolve?domain=YasinMoridi")
                 } catch (_: Exception) {
                     Toast.makeText(context, "تلگرام یافت نشد", Toast.LENGTH_SHORT).show()
                 }
@@ -170,7 +170,7 @@ fun DrawerContent(
             icon = R.drawable.img_music_play,
             onClick = {
                 try {
-                    uriHandler.openUri("tg://resolve?domain=i_hoseinam")
+                    uriHandler.openUri("tg://resolve?domain=YasinMoridi")
                 } catch (_: Exception) {
                     Toast.makeText(context, "تلگرام یافت نشد", Toast.LENGTH_SHORT).show()
                 }
